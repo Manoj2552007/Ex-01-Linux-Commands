@@ -1,6 +1,6 @@
 # Ex-01: Linux Commands
-## Name: Ganesh S
-## Reg no: 212222040042
+## Name: Manoj R
+## Reg no: 212224230152
 ## Aim:
 To study the execution of various Linux operating system commands.
 
